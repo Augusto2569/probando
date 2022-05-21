@@ -37,7 +37,7 @@ sem = Semaphore()
 ROOM_ID = "Room1"
 CONFIG_TOPIC = "hotel/rooms/" + ROOM_ID + "/config"
 
-MQTT_SERVER = "34.175.247.221"
+MQTT_SERVER = "34.107.38.240"
 MQTT_PORT = 1884
 
 TELEMETRY_TOPIC = "hotel/rooms/" + ROOM_ID + "/telemetry/"
